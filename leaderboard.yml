@@ -1,39 +1,53 @@
 records:
-- rank: 30
+- rank: 32
   score: 0.041
   title: MiniGPT4 + CoT
   type: open_source
   link: https://minigpt-4.github.io/
   size: 13B
   date: '2025-01-01'
-- rank: 29
+- rank: 31
   score: 0.043
   title: MiniGPT4
   type: open_source
   link: https://minigpt-4.github.io/
   size: 13B
   date: '2025-01-01'
-- rank: 28
+- rank: 30
   score: 0.048
   title: Otter
   type: open_source
   link: https://arxiv.org/abs/2305.03726
   size: '-'
   date: '2025-01-01'
-- rank: 27
+- rank: 29
+  score: 0.052
+  title: DeepSeek-Janus-Pro-7B
+  type: open_source
+  link: https://github.com/deepseek-ai/Janus
+  size: 7B
+  date: '2025-02-23'
+- rank: 28
   score: 0.058
   title: mPLUG-OWL2
   type: open_source
   link: https://arxiv.org/abs/2311.04257
   size: '-'
   date: '2025-01-01'
-- rank: 26
+- rank: 27
   score: 0.058
   title: MiniCPM-v2.5
   type: open_source
   link: https://huggingface.co/openbmb/MiniCPM-V
   size: '-'
   date: '2025-01-01'
+- rank: 26
+  score: 0.058
+  title: DeepSeek-VL2
+  type: open_source
+  link: https://github.com/deepseek-ai/DeepSeek-VL2
+  size: 4.1B
+  date: '2025-02-23'
 - rank: '-'
   score: 0.062
   title: Human (low)
